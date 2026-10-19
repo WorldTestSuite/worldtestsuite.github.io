@@ -4,7 +4,10 @@ Project website placeholder. The full website will be added later.
 
 - Organization: https://github.com/WorldTestSuite
 - Website: https://worldtestsuite.github.io/
-- Repository: https://github.com/WorldTestSuite/worldtestsuite.github.io
+- Main project repository: https://github.com/WorldTestSuite/Awesome-WorldTestSuite
+- Website hosting repository: https://github.com/WorldTestSuite/worldtestsuite.github.io
+
+Project resources belong in `Awesome-WorldTestSuite`. This repository hosts the organization's root website and therefore uses the GitHub Pages name `worldtestsuite.github.io`.
 
 ## Website updates
 
